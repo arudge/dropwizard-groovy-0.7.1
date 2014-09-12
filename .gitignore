@@ -1,0 +1,6 @@
+build/**
+.gradle/**
+*.iml
+dropwizard0.7.iml
+/target/
+/.idea/
